@@ -1,0 +1,17 @@
+JWT Authentication
+
+1. User Login
+
+2. Validate Credentials
+
+3. Generate JWT Token
+
+4. Return Token
+
+5. Client sends Bearer Token
+
+6. API validates Token
+
+Authorization Header
+
+Bearer <JWT Token>

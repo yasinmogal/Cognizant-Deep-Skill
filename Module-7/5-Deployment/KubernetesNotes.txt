@@ -1,0 +1,21 @@
+Kubernetes
+
+Features
+
+- Auto Scaling
+
+- Load Balancing
+
+- Self Healing
+
+Deployment Strategies
+
+- Rolling Update
+
+- Blue Green Deployment
+
+CI/CD
+
+GitHub Actions
+
+Azure DevOps

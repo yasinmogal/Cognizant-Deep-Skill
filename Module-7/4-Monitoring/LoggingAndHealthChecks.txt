@@ -1,0 +1,19 @@
+Monitoring and Logging
+
+Logging
+
+- Information
+- Warning
+- Error
+
+Health Checks
+
+builder.Services.AddHealthChecks();
+
+app.MapHealthChecks("/health");
+
+Benefits
+
+- Monitor service health
+- Detect failures
+- Easy troubleshooting

@@ -1,0 +1,26 @@
+Microservices Architecture
+
+Microservices is an architectural style where an application is divided into
+small, independent services.
+
+Advantages
+- Independent deployment
+- Easy maintenance
+- Scalability
+- Fault isolation
+
+Challenges
+- Network communication
+- Data consistency
+- Monitoring
+- Security
+
+Monolithic vs Microservices
+
+Monolithic
+- Single application
+- Single deployment
+
+Microservices
+- Multiple services
+- Independent deployment
