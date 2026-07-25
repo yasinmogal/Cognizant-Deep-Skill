@@ -1,0 +1,13 @@
+DOM Inspection
+
+Open Chrome DevTools
+
+Select Elements
+
+Inspect HTML Elements
+
+Edit CSS
+
+View DOM Tree
+
+Monitor Changes

@@ -1,0 +1,16 @@
+Chrome DevTools
+
+Open Chrome
+
+Press F12
+
+Tabs
+
+- Elements
+- Console
+- Sources
+- Network
+- Application
+- Performance
+
+Use Sources tab to set breakpoints.

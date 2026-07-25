@@ -1,0 +1,8 @@
+Debugging Tips
+
+- Read Error Messages
+- Use Breakpoints
+- Use Console.log()
+- Inspect Variables
+- Check Network Requests
+- Verify API Responses

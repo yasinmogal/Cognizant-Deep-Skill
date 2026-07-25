@@ -1,0 +1,19 @@
+Debugging in Visual Studio Code
+
+Breakpoints
+- Line Breakpoint
+- Conditional Breakpoint
+- Logpoint
+
+Debug Actions
+- Step Into
+- Step Over
+- Step Out
+- Continue
+
+Windows
+
+- Watch
+- Variables
+- Call Stack
+- Debug Console

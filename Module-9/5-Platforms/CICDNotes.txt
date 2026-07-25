@@ -1,0 +1,19 @@
+CI/CD
+
+Continuous Integration
+
+Continuous Delivery
+
+Tools
+
+- GitHub Actions
+
+- Azure DevOps
+
+Benefits
+
+- Automated Build
+
+- Automated Testing
+
+- Automated Deployment
