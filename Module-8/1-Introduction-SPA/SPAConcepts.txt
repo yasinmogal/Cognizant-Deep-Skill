@@ -1,0 +1,16 @@
+Single Page Application (SPA)
+
+SPA loads a single HTML page and updates content dynamically.
+
+Benefits
+
+- Fast
+- Better user experience
+- Less server load
+- No page refresh
+
+Examples
+
+- Gmail
+- Facebook
+- Twitter

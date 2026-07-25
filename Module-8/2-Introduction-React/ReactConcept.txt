@@ -1,0 +1,18 @@
+React
+
+React is a JavaScript library developed by Facebook.
+
+Features
+
+- Virtual DOM
+- Component Based
+- Reusable Code
+- Fast Rendering
+
+Create React App
+
+npx create-react-app myapp
+
+Run
+
+npm start
