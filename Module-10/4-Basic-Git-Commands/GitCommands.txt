@@ -1,0 +1,17 @@
+Basic Git Commands
+
+git init
+
+git clone <repository-url>
+
+git status
+
+git add .
+
+git commit -m "Initial Commit"
+
+git log
+
+git diff
+
+git reset

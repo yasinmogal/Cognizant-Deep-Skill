@@ -1,0 +1,21 @@
+Remote Repository Commands
+
+Add Remote
+
+git remote add origin https://github.com/username/repository.git
+
+Check Remote
+
+git remote -v
+
+Push
+
+git push origin main
+
+Pull
+
+git pull origin main
+
+Fetch
+
+git fetch

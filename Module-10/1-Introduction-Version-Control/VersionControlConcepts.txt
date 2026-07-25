@@ -1,0 +1,18 @@
+Version Control
+
+Version Control is a system that tracks changes made to files over time.
+
+Benefits
+
+- Maintains history
+- Easy collaboration
+- Backup of source code
+- Restore previous versions
+
+Types
+
+1. Local Version Control
+
+2. Centralized Version Control
+
+3. Distributed Version Control (Git)

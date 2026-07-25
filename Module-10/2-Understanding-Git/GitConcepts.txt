@@ -1,0 +1,23 @@
+Git
+
+Git is a Distributed Version Control System (DVCS).
+
+Git Components
+
+1. Working Directory
+
+2. Staging Area
+
+3. Local Repository
+
+4. Remote Repository
+
+Advantages
+
+- Fast
+
+- Secure
+
+- Distributed
+
+- Easy Branching

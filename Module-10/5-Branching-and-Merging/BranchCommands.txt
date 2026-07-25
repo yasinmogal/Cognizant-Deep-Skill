@@ -1,0 +1,23 @@
+Branching Commands
+
+Create Branch
+
+git branch feature
+
+Switch Branch
+
+git checkout feature
+
+Create and Switch
+
+git checkout -b feature
+
+Merge Branch
+
+git checkout main
+
+git merge feature
+
+Delete Branch
+
+git branch -d feature
