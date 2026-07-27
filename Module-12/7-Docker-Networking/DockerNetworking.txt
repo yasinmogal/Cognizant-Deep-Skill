@@ -1,0 +1,17 @@
+Docker Networking
+
+Default Networks
+
+Bridge
+
+Host
+
+None
+
+Commands
+
+docker network ls
+
+docker network inspect bridge
+
+docker network create mynetwork

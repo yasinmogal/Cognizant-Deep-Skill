@@ -1,0 +1,19 @@
+Container Orchestration
+
+Container orchestration automates deployment and management.
+
+Benefits
+
+- High Availability
+
+- Auto Scaling
+
+- Load Balancing
+
+- Self Healing
+
+Popular Tool
+
+Kubernetes
+
+Docker Swarm

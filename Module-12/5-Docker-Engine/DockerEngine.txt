@@ -1,0 +1,11 @@
+Docker Engine
+
+Components
+
+Docker CLI
+
+Docker Daemon
+
+Docker REST API
+
+Docker Client communicates with Docker Daemon.

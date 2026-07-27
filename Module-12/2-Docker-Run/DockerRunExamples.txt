@@ -1,0 +1,25 @@
+Docker Run Examples
+
+Run Container
+
+docker run nginx
+
+Run Container with Name
+
+docker run --name mynginx nginx
+
+Run in Background
+
+docker run -d nginx
+
+Run with Port Mapping
+
+docker run -p 8080:80 nginx
+
+Interactive Mode
+
+docker run -it ubuntu bash
+
+Automatically Remove Container
+
+docker run --rm ubuntu

@@ -1,0 +1,19 @@
+Docker Images
+
+Docker Image
+
+Read-only template used to create containers.
+
+Types
+
+Base Image
+
+Parent Image
+
+Image Layers
+
+Container Layer
+
+Create Image
+
+docker build -t myapp .
