@@ -1,0 +1,27 @@
+CircleCI
+
+version: 2.1
+
+jobs:
+
+build:
+
+docker:
+
+- image: cimg/dotnet:8.0
+
+steps:
+
+- checkout
+
+- run: dotnet build
+
+workflows:
+
+version: 2
+
+build:
+
+jobs:
+
+- build

@@ -1,0 +1,23 @@
+Continuous Integration (CI)
+
+Developers frequently merge code into a shared repository.
+
+Benefits
+
+- Detect bugs early
+- Automated builds
+- Automated testing
+
+Continuous Delivery (CD)
+
+Applications are always ready for deployment.
+
+Continuous Deployment
+
+Every successful build is automatically deployed.
+
+Difference
+
+CI → Build and Test
+
+CD → Deploy Application

@@ -1,0 +1,36 @@
+DevOps
+
+DevOps is a software development methodology that combines Development and Operations.
+
+Goals
+
+- Faster software delivery
+- Automation
+- Continuous Integration
+- Continuous Deployment
+- Better collaboration
+
+Benefits
+
+- Reduced deployment time
+- Improved software quality
+- Faster bug fixes
+- Reliable releases
+
+DevOps Lifecycle
+
+Plan
+
+Develop
+
+Build
+
+Test
+
+Release
+
+Deploy
+
+Operate
+
+Monitor
