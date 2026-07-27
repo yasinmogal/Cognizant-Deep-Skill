@@ -1,0 +1,39 @@
+Agile Estimation
+
+Story Points
+
+Story points estimate effort instead of time.
+
+Planning Poker
+
+Common Values
+
+1
+
+2
+
+3
+
+5
+
+8
+
+13
+
+21
+
+Sprint Planning
+
+- Select backlog items
+
+- Estimate effort
+
+- Define Sprint Goal
+
+Velocity
+
+Velocity = Story Points completed in one sprint.
+
+Burndown Chart
+
+Shows remaining work throughout the sprint.

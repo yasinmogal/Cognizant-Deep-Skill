@@ -1,0 +1,31 @@
+User Story
+
+Format
+
+As a <User>
+
+I want <Goal>
+
+So that <Benefit>
+
+Example
+
+As a Student
+
+I want to login
+
+So that I can access my dashboard.
+
+INVEST Principle
+
+Independent
+
+Negotiable
+
+Valuable
+
+Estimable
+
+Small
+
+Testable

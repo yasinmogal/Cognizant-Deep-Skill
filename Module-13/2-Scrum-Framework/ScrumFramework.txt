@@ -1,0 +1,37 @@
+Scrum Framework
+
+Roles
+
+1. Product Owner
+
+2. Scrum Master
+
+3. Development Team
+
+Scrum Ceremonies
+
+Sprint Planning
+
+Daily Scrum
+
+Sprint Review
+
+Sprint Retrospective
+
+Scrum Artifacts
+
+Product Backlog
+
+Sprint Backlog
+
+Increment
+
+Definition of Done (DoD)
+
+- Code completed
+
+- Testing completed
+
+- Documentation updated
+
+- Ready for deployment

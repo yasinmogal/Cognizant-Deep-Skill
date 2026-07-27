@@ -1,0 +1,25 @@
+Acceptance Criteria
+
+Given
+
+When
+
+Then
+
+Example
+
+Given the user is on the login page
+
+When the user enters valid credentials
+
+Then the dashboard should be displayed.
+
+Benefits
+
+- Clear requirements
+
+- Easy testing
+
+- Better communication
+
+- Improved software quality

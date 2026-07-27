@@ -1,0 +1,40 @@
+Agile Methodology
+
+Agile is an iterative software development methodology that focuses on collaboration, flexibility and continuous delivery.
+
+Agile Manifesto - 4 Values
+
+1. Individuals and interactions over processes and tools.
+
+2. Working software over comprehensive documentation.
+
+3. Customer collaboration over contract negotiation.
+
+4. Responding to change over following a plan.
+
+12 Agile Principles
+
+- Customer satisfaction
+- Welcome changing requirements
+- Frequent delivery
+- Collaboration
+- Motivated teams
+- Face-to-face communication
+- Working software
+- Sustainable development
+- Technical excellence
+- Simplicity
+- Self-organizing teams
+- Regular reflection
+
+Agile vs Waterfall
+
+Agile
+- Incremental development
+- Flexible
+- Continuous feedback
+
+Waterfall
+- Sequential process
+- Fixed requirements
+- Testing at the end
